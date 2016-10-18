@@ -7,7 +7,7 @@ Preview (pre-alpha)
 # Goal
 * Create a collection of development environments that work everywhere embracing docker. 
 
-Idea is to 
+# Idea & mission
  * Clone this repo
  * Find the dev env you need
  * Copy it to your machine
